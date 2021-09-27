@@ -17,7 +17,7 @@ e577b6 - add changelog - Joshua Mulliken
 
 
 - - -
-## 2021.9.6..2021.9.7b1 - 2021-09-26
+## 0.0.0..2021.9.7b1 - 2021-09-26
 
 
 ### Miscellaneous Chores
