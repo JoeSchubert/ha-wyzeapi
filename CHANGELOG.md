@@ -1,6 +1,14 @@
 # Change Log
 
 - - -
+## 2021.9.7 - 2021-09-26
+
+
+### Bug Fixes
+
+a8bf1f - bump wyzeapy to fix lock not showing as unlocked - Joshua Mulliken
+
+- - -
 ## 2021.9.7-b2 - 2021-09-26
 
 
